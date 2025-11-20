@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coldfire129.github.io/hugo-dev/</loc>
+    <loc>https://haomoon.top/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coldfire129.github.io/hugo-dev/en/"
+                href="https://haomoon.top/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://coldfire129.github.io/hugo-dev/ar/"
+                href="https://haomoon.top/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://coldfire129.github.io/hugo-dev/"
+                href="https://haomoon.top/"
                 />
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/categories/</loc>
+    <loc>https://haomoon.top/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coldfire129.github.io/hugo-dev/en/categories/"
+                href="https://haomoon.top/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://coldfire129.github.io/hugo-dev/ar/categories/"
+                href="https://haomoon.top/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://coldfire129.github.io/hugo-dev/categories/"
+                href="https://haomoon.top/categories/"
                 />
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/p/test-chinese/</loc>
+    <loc>https://haomoon.top/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/post/</loc>
+    <loc>https://haomoon.top/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://coldfire129.github.io/hugo-dev/ar/post/"
+                href="https://haomoon.top/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://coldfire129.github.io/hugo-dev/post/"
+                href="https://haomoon.top/post/"
                 />
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/categories/test/</loc>
+    <loc>https://haomoon.top/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://haomoon.top/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/archives/</loc>
+    <loc>https://haomoon.top/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/page/</loc>
+    <loc>https://haomoon.top/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/css/</loc>
+    <loc>https://haomoon.top/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/html/</loc>
+    <loc>https://haomoon.top/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/markdown/</loc>
+    <loc>https://haomoon.top/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/p/markdown-syntax-guide/</loc>
+    <loc>https://haomoon.top/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/categories/syntax/</loc>
+    <loc>https://haomoon.top/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/</loc>
+    <loc>https://haomoon.top/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coldfire129.github.io/hugo-dev/en/tags/"
+                href="https://haomoon.top/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://coldfire129.github.io/hugo-dev/ar/tags/"
+                href="https://haomoon.top/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://coldfire129.github.io/hugo-dev/tags/"
+                href="https://haomoon.top/tags/"
                 />
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/categories/themes/</loc>
+    <loc>https://haomoon.top/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/themes/</loc>
+    <loc>https://haomoon.top/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/p/placeholder-text/</loc>
+    <loc>https://haomoon.top/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://coldfire129.github.io/hugo-dev/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://haomoon.top/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://coldfire129.github.io/hugo-dev/p/placeholder-text/"
+                href="https://haomoon.top/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/tag-with-whitespaces/</loc>
+    <loc>https://haomoon.top/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/categories/test-with-whitespaces/</loc>
+    <loc>https://haomoon.top/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/text/</loc>
+    <loc>https://haomoon.top/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/p/math-typesetting/</loc>
+    <loc>https://haomoon.top/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/tags/emoji/</loc>
+    <loc>https://haomoon.top/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/p/emoji-support/</loc>
+    <loc>https://haomoon.top/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/links/</loc>
+    <loc>https://haomoon.top/links/</loc>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/search/</loc>
+    <loc>https://haomoon.top/search/</loc>
   </url><url>
-    <loc>https://coldfire129.github.io/hugo-dev/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://haomoon.top/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>https://coldfire129.github.io/hugo-dev/en/</link>
+        <link>https://haomoon.top/en/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>浩瀚之月</copyright><atom:link href="https://coldfire129.github.io/hugo-dev/en/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>浩瀚之月</copyright><atom:link href="https://haomoon.top/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
